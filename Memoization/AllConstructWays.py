@@ -8,7 +8,7 @@
 # You may reuse elements of `word_bank` as many times as needed.
 
 # Eg:
-# allConstructWays (purple, [purp, p, ur, le, purp])
+# allConstructWays (purple, [purp, p, ur, le, purpl])
 #   [
 #       [purp, le],
 #       [p, ur, p, le]
